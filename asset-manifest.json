@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/domingodominic/ts_play/static/css/main.073c9b0a.css",
+    "main.js": "/domingodominic/ts_play/static/js/main.a36e6837.js",
+    "static/js/787.97131bbf.chunk.js": "/domingodominic/ts_play/static/js/787.97131bbf.chunk.js",
+    "static/media/logo.svg": "/domingodominic/ts_play/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/domingodominic/ts_play/index.html",
+    "main.073c9b0a.css.map": "/domingodominic/ts_play/static/css/main.073c9b0a.css.map",
+    "main.a36e6837.js.map": "/domingodominic/ts_play/static/js/main.a36e6837.js.map",
+    "787.97131bbf.chunk.js.map": "/domingodominic/ts_play/static/js/787.97131bbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a36e6837.js"
+  ]
+}
